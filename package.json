@@ -1,0 +1,23 @@
+{
+  "name": "dell-ac511-soundbar-volume-control",
+  "version": "1.0.0",
+  "description": "volume control for Dell AC511 USB Soundbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cades/dell-ac511-soundbar-volume-control.git"
+  },
+  "author": "cades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cades/dell-ac511-soundbar-volume-control/issues"
+  },
+  "homepage": "https://github.com/cades/dell-ac511-soundbar-volume-control#readme",
+  "dependencies": {
+    "linux-input-device": "^1.0.0",
+    "loudness": "^0.2.2"
+  }
+}
